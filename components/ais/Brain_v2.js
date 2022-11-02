@@ -1,7 +1,7 @@
 // Neural Network V1
 // Custom functionality
 // No network memory
-// Learning method: Gradient Descent by calculating slope, no Calculus optimization
+// Learning method: Gradient Descent by calculating slope, WITH Calculus optimization
 // Unpolished
 // Network layers and sizes based on params
 // Has API
